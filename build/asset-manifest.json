@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/ShashwatSamadhiya/To-Do-list.git/static/js/main.1e26e70e.chunk.js",
-    "main.js.map": "/ShashwatSamadhiya/To-Do-list.git/static/js/main.1e26e70e.chunk.js.map",
-    "runtime-main.js": "/ShashwatSamadhiya/To-Do-list.git/static/js/runtime-main.51551e2f.js",
-    "runtime-main.js.map": "/ShashwatSamadhiya/To-Do-list.git/static/js/runtime-main.51551e2f.js.map",
-    "static/js/2.4ff0daa0.chunk.js": "/ShashwatSamadhiya/To-Do-list.git/static/js/2.4ff0daa0.chunk.js",
-    "static/js/2.4ff0daa0.chunk.js.map": "/ShashwatSamadhiya/To-Do-list.git/static/js/2.4ff0daa0.chunk.js.map",
-    "index.html": "/ShashwatSamadhiya/To-Do-list.git/index.html",
-    "precache-manifest.772ad6f9260bd5020bf4a925c26cb0d3.js": "/ShashwatSamadhiya/To-Do-list.git/precache-manifest.772ad6f9260bd5020bf4a925c26cb0d3.js",
-    "service-worker.js": "/ShashwatSamadhiya/To-Do-list.git/service-worker.js"
+    "main.js": "/ShashwatSamadhiya/To-Do-List.git/static/js/main.1e26e70e.chunk.js",
+    "main.js.map": "/ShashwatSamadhiya/To-Do-List.git/static/js/main.1e26e70e.chunk.js.map",
+    "runtime-main.js": "/ShashwatSamadhiya/To-Do-List.git/static/js/runtime-main.573b13cb.js",
+    "runtime-main.js.map": "/ShashwatSamadhiya/To-Do-List.git/static/js/runtime-main.573b13cb.js.map",
+    "static/js/2.4ff0daa0.chunk.js": "/ShashwatSamadhiya/To-Do-List.git/static/js/2.4ff0daa0.chunk.js",
+    "static/js/2.4ff0daa0.chunk.js.map": "/ShashwatSamadhiya/To-Do-List.git/static/js/2.4ff0daa0.chunk.js.map",
+    "index.html": "/ShashwatSamadhiya/To-Do-List.git/index.html",
+    "precache-manifest.60af1a080560d38a40d07f7da6ae653a.js": "/ShashwatSamadhiya/To-Do-List.git/precache-manifest.60af1a080560d38a40d07f7da6ae653a.js",
+    "service-worker.js": "/ShashwatSamadhiya/To-Do-List.git/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.51551e2f.js",
+    "static/js/runtime-main.573b13cb.js",
     "static/js/2.4ff0daa0.chunk.js",
     "static/js/main.1e26e70e.chunk.js"
   ]
